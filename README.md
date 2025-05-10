@@ -24,11 +24,12 @@
     <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" title="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" title="Next.js" />
     <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" title="Laravel" />
+      <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET" title=".NET" />
     <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" title="Linux" />
     <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" title="Google Cloud" />
-    <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET" title=".NET" />
 </div>
 
 <h2 align="left">🛠 Beginner and/or Learning</h2>
